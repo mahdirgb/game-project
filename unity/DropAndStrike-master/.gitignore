@@ -1,0 +1,38 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+.utmp/
+
+# Auto-generated
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Crash reports
+sysinfo.txt
+
+# Unity Collaborate
+.collab/
+
+# Rider
+.idea/
+
+UserSettings/

@@ -1,0 +1,50 @@
+2025-09-03 04:41:16:4116 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:41:16:4116 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 04:43:03:433 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:43:03:433 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 04:44:15:4415 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:44:15:4415 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 04:44:27:4427 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:44:27:4427 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 04:44:27:4427 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:44:27:4427 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 04:54:13:5413 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:54:43:5443 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 04:58:11:5811 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 04:58:41:5841 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 05:02:04:24 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:02:34:234 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 05:02:52:252 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:02:57:257 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:03:27:327 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 05:04:26:426 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:04:56:456 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 05:07:11:711 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:07:41:741 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 05:14:03:143 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 05:14:33:1433 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:04:51:451 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:05:03:53 [31merror[39m: [31mLogin error: Operation `users.findOne()` buffering timed out after 10000ms[39m
+2025-09-03 07:05:21:521 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:05:30:530 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:05:42:542 [31merror[39m: [31mLogin error: Operation `users.findOne()` buffering timed out after 10000ms[39m
+2025-09-03 07:06:00:60 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:06:05:65 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:06:35:635 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:06:41:641 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:07:11:711 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:07:15:715 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:07:45:745 [31merror[39m: [31mMongoDB connection error: read ECONNRESET[39m
+2025-09-03 07:09:06:96 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-03 07:09:06:96 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-03 07:09:09:99 [32minfo[39m: [32mUser logged in: admin@dropstrike.com[39m
+2025-09-05 04:13:03:133 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-05 04:13:53:1353 [31merror[39m: [31mMongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.dropstrike.uszoe9l.mongodb.net[39m
+2025-09-05 10:19:31:1931 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-05 10:20:02:202 [31merror[39m: [31mLogin error: Operation `users.findOne()` buffering timed out after 10000ms[39m
+2025-09-05 10:20:22:2022 [31merror[39m: [31mMongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.dropstrike.uszoe9l.mongodb.net[39m
+2025-09-05 10:28:39:2839 [32minfo[39m: [32mServer is running on port 3000[39m
+2025-09-05 10:28:39:2839 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-09-05 10:28:43:2843 [32minfo[39m: [32mUser logged in: admin@dropstrike.com[39m
+2025-09-05 11:25:24:2524 [32minfo[39m: [32mNew ad reward created: Banner by admin admin@dropstrike.com[39m
+2025-09-05 11:59:57:5957 [32minfo[39m: [32mUser logged in: admin@dropstrike.com[39m
